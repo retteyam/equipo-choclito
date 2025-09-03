@@ -3,3 +3,5 @@ def saludar(nombre: str) -> None:
 
 def saludasAmigos(nombres: list[str]) -> None: 
     print(f"Hola, {nombres}!")
+def hacerNada() -> None:
+    print('hacer nada')
